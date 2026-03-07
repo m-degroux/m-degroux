@@ -1,4 +1,10 @@
-<h2 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi 👋! My name is Mathieu 🇫🇷</h2>
+<h3 align="center">Computer Science Student (BUT Informatique) in Caen, France</h3>
+
+<p align="center">
+  Passionate about software development and emerging technologies, I am currently studying at the IUT of Caen. 
+  Driven and curious, I explore the world of Full-Stack development and System Administration through various academic and personal projects.
+</p>
 
 ###
 
